@@ -6,4 +6,5 @@ const litrosConsumidos = distanciaEmKm / kmPorLitros;
 const valorGasto = litrosConsumidos * precoCombustivel;
 
 console.log (valorGasto);
-console.log (valorGasto.toFixed(2));//arredondamento exemplo
+console.log (valorGasto.toFixed(2));
+//arredondamento exemplo

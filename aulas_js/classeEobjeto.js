@@ -1,4 +1,4 @@
-/* 
+/*  
 //ex1
 
 const david = {
